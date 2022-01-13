@@ -1,0 +1,5 @@
+script:
+    name: php-migration
+    parameters:
+        fromLevel: 7.0
+        toLevel: 8.1
