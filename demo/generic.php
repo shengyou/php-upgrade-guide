@@ -1,6 +1,7 @@
 <?php
 
 use Kraftsman\UpgradeGuide\Apple;
+use Kraftsman\UpgradeGuide\Banana;
 
 /**
  * @template T
